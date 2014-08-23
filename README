@@ -1,0 +1,17 @@
+ABOUT
+=====
+
+StatusIcons is a font for a status bar which I use for my i3bar.
+The icons are in the Private Use Zone of Unicode (U+E000 to U+F8FF).
+
+Documentation can be found at http://www.narfi.net/other/statusicons/
+
+
+LICENSE
+=======
+
+Copyright (c) 2014, Sven Hertle (sven.herte@googlemail.com | narfi.net).
+
+The StatusIcons font is licensed under the SIL Open Font License (OFL).
+
+See OFL.txt for more information.
